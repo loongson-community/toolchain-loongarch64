@@ -1,0 +1,12 @@
+{
+  "name": "toolchain-loongarch64",
+  "version": "1.0.0",
+  "description": "GNU toolchain for LoongArch (x86 cross compiler)",
+  "keywords": [
+    "toolchain",
+    "ls2k"
+  ],
+  "homepage": "https://www.loongson.cn",
+  "license": "GPL-2.0-or-later",
+  "system": "linux_x86_64"
+}
